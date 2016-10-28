@@ -1,0 +1,26 @@
+{
+  "name": "grupohackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeABorges/grupohackathon.git"
+  },
+  "author": "Felipe Augusto Borges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeABorges/grupohackathon/issues"
+  },
+  "homepage": "https://github.com/FelipeABorges/grupohackathon#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-generator": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
